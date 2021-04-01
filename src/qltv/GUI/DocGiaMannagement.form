@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jToolBar1" alignment="1" max="32767" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel7" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="jLabel6" alignment="1" min="-2" pref="80" max="-2" attributes="0"/>
+                              <Component id="jLabel5" alignment="1" min="-2" pref="80" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel4" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txttendg" max="32767" attributes="0"/>
+                          <Component id="txtlop" max="32767" attributes="0"/>
+                          <Component id="txtkhoa" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtngaysinh" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="jLabel2" min="-2" pref="110" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="txtgc" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="jLabel3" alignment="1" max="32767" attributes="0"/>
+                              <Component id="jLabel1" alignment="1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel8" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtmathe" max="32767" attributes="0"/>
+                          <Component id="txtngaybd" max="32767" attributes="0"/>
+                          <Component id="txtngaykt" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="68" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="btnsua" alignment="1" min="-2" pref="165" max="-2" attributes="0"/>
+                  <Component id="btnthem1" alignment="1" min="-2" pref="165" max="-2" attributes="0"/>
+                  <Component id="btnxoa" alignment="1" min="-2" pref="173" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+          </Group>
+          <Component id="jScrollPane1" pref="1031" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jToolBar1" min="-2" pref="21" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel8" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                          <Component id="txtmathe" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtngaybd" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" pref="22" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel3" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                          <Component id="txtngaykt" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel2" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                          <Component id="txtgc" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="btnthem1" min="-2" pref="52" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                      <Component id="btnsua" min="-2" pref="52" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel4" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                  <Component id="txttendg" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel6" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                  <Component id="txtlop" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnxoa" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel5" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                  <Component id="txtkhoa" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel7" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                  <Component id="txtngaysinh" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="213" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ghi ch&#xfa;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ng&#xe0;y h&#x1ebf;t h&#x1ea1;n"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="T&#xea;n &#x111;&#x1ecd;c gi&#x1ea3;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ng&#xe0;y sinh"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Khoa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="M&#xe3; Th&#x1ebb;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="L&#x1edb;p"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnxoa">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/qltv/icon_java/Actions-edit-delete-icon-16.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="X&#xf3;a"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnxoaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnsua">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/qltv/icon_java/Actions-document-edit-icon-16.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="S&#x1eed;a"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnsuaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ng&#xe0;y b&#x1eaf;t &#x111;&#x1ea7;u"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="tbtheTV">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="8" rowCount="0">
+                <Column editable="false" title="M&#xe3; Th&#x1ebb;" type="java.lang.Object"/>
+                <Column editable="false" title="Ng&#xe0;y b&#x1eaf;t &#x111;&#x1ea7;u" type="java.lang.Object"/>
+                <Column editable="false" title="Ghi ch&#xfa;" type="java.lang.Object"/>
+                <Column editable="false" title="T&#xea;n &#x111;&#x1ecd;c gi&#x1ea3;" type="java.lang.Object"/>
+                <Column editable="false" title="Ng&#xe0;y k&#x1ebf;t th&#xfa;c" type="java.lang.Object"/>
+                <Column editable="false" title="L&#x1edb;p" type="java.lang.Object"/>
+                <Column editable="false" title="Khoa" type="java.lang.Object"/>
+                <Column editable="false" title="Ng&#xe0;y sinh" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tbtheTVMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="18" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="33" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Qu&#x1ea3;n L&#xfd; Th&#x1ebb; Th&#x1b0; Vi&#x1ec7;n"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JToolBar" name="jToolBar1">
+      <Properties>
+        <Property name="rollover" type="boolean" value="true"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout"/>
+    </Container>
+    <Component class="javax.swing.JButton" name="btnthem1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/qltv/icon_java/new-icon-16.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Th&#xea;m"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnthem1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtmathe">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="txtmatheFocusLost"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtngaykt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtgc">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txttendg">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="txttendgFocusLost"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtkhoa">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtkhoaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtlop">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtngaybd">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="txtngaybdFocusLost"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtngaybdActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtngaysinh">
+    </Component>
+  </SubComponents>
+</Form>
